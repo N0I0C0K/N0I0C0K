@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate on ...emmm, I don't know.
 - 📫 How to reach me ....
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=N0I0C0K&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=N0I0C0K&show_icons=true&theme=gotham" alt="nickStar" />
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0I0C0K&layout=compact" alt="nickLan" />
