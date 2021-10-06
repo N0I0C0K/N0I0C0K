@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on ...emmm, I don't know.
 - 📫 How to reach me ....
 
-<!---
-N0I0C0K/N0I0C0K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=N0I0C0K&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
