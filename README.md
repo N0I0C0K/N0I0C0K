@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @N0I0C0K, I'm a full stack developer, and I'm also a game developer!
+# 👋 Hi, I’m @N0I0C0K
+
+- 😶‍🌫️ I'm a full stack developer, and I'm also a game developer!
 - 👀 I’m interested in doing some thing new.
 - 🌱 I’m currently learning AI, Algorithm, Web Security.
 
